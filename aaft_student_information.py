@@ -63,7 +63,7 @@ if st.button("Submit"):
     st.write("Course:",course)
     st.write("Gender:",gender)
     st.write("Marks:",marks)
-    st.write("Marks:",skills)
+    st.write("Skills:",skills)
 
     if agree:
         st.success("Form Submitted")
